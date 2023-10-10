@@ -1,0 +1,10 @@
+#grid {
+    display: flex;
+}
+
+.cell {
+    margin: 1px;
+    width: 30px;
+    height: 30px;
+}
+
